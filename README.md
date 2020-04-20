@@ -1,24 +1,7 @@
-# vue-gmail
+# 项目的master主分支
 
-## Project setup
-```
-yarn install
-```
+## 如需开发请移步开发分支dev
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 在src下的assets文件夹里, 添加了老大的图片哦.
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 向MAMBA致敬!
